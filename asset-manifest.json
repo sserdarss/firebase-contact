@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-contact/static/css/main.d549e293.css",
+    "main.js": "/firebase-contact/static/js/main.47019021.js",
+    "static/js/787.6c3fad03.chunk.js": "/firebase-contact/static/js/787.6c3fad03.chunk.js",
+    "index.html": "/firebase-contact/index.html",
+    "main.d549e293.css.map": "/firebase-contact/static/css/main.d549e293.css.map",
+    "main.47019021.js.map": "/firebase-contact/static/js/main.47019021.js.map",
+    "787.6c3fad03.chunk.js.map": "/firebase-contact/static/js/787.6c3fad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d549e293.css",
+    "static/js/main.47019021.js"
+  ]
+}
